@@ -1,1 +1,18 @@
-# lab-06
+# CMPUT 301 : Lab 6 Participation Exercise
+
+## Student Details
+
+- **Full Name:** `Hayden Farand`
+- **CCID:** `farand`
+
+## References and Resources
+
+List any resources used here, or simply put `N/A` if not applicable.
+`N/A`
+
+## Verbal Collaboration
+
+| Student Name | CCID      |
+| ------------ | --------- |
+| `N/A` | `N/A` |
+| `N/A` | `N/A` |
